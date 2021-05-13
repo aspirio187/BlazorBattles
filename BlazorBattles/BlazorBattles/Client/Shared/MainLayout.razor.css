@@ -31,12 +31,12 @@
         text-overflow: ellipsis;
     }
 
-.top-menu {
+/*.top-menu {
     justify-content: center;
     width: 100%;
     display: flex;
 }
-
+*/
 @media (max-width: 640.98px) {
     .top-row:not(.auth) {
         justify-content:center;
